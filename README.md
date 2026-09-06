@@ -35,7 +35,7 @@ career-compass/
 │   │   ├── models.py / schemas.py / config.py / db.py / services/auth.py
 │   ├── tests/test_career_plan.py # 求职导航分支回归（无网络无 DB）
 │   └── .env.example
-├── docs/                         # 07 求职端规范 / 08 C端小程序方案 / 09 上线准备清单
+├── docs/                         # 07 求职端规范 / 09 上线准备清单
 └── README.md
 ```
 
